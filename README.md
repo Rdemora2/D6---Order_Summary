@@ -3,4 +3,4 @@ Desafio do FrontEnd Mentor desenvolvido durante estudos de HTML e CSS no BuserTe
 
 PREVIEW:
 
-https://rdemora2.github.io/D6-Order_Summary/
+https://rdemora2.github.io/D6---Order_Summary/
